@@ -1,3 +1,8 @@
+#STG Gloc files
+*.got
+*.stg
+*.awsm
+
 # Built application files
 *.apk
 *.aar
